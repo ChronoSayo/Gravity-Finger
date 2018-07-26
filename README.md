@@ -2,10 +2,9 @@
 
 ![Gravity Finger](http://chronosayo.com/Art/iconsplash.png)
 
-###### Roles: Programmer and Designer.
-###### Developed in: Unity2D, C#.
+###### Roles: Programmer and Designer. <br> Developed in: Unity2D, C#.
 
-[Download Android Version Here (.apk)](http://chronosayo.com/Games/Gravity%20Finger.apk)
+[Download Android Version Here (.apk)](http://chronosayo.com/Games/Gravity%20Finger.apk) <br>
 [Download PC Version Here](http://chronosayo.com/Games/Gravity%20Finger%20(By%20Sayo).zip)
 
 A 2D gravity puzzle game. Guide the box floating in space to the light hole using gravity emitted from pointing at the screen. Get to the goal before the time runs out, which is depended on the speed of the box, and avoid black holes disrupting your progress. Collect coins to unlock a new mode or a set of harder levels. Available for both Android devices and PC.
